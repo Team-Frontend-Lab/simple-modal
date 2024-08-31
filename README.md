@@ -8,7 +8,7 @@ Thanks for checking out this frontend assessment.
 
 [Frontend Lab](https://www.frontendlab.io) assessments help you sharpen your coding skills through real-world projects, making it easier to succeed in frontend assessments or machine coding rounds.
 
-**To do this challenge, you need a good understanding of React, JavaScript Firebase and CSS.**
+**To do this challenge, you need a good understanding of HTML, CSS and JavaScript.**
 
 ## The challenge
 
