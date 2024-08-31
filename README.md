@@ -12,7 +12,7 @@ Thanks for checking out this frontend assessment.
 
 ## The challenge
 
-Your challenge is to build a Simple Modal.
+Your challenge is to build a Simple Modal using vanilla JavaScript.
 
 You can use any tools you like to help you complete the assessment. So, if you have something you'd like to practice, feel free to give it a go.
 
