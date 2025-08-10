@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.attribution {
+  font-size: 12px;
+  text-align: center;
+}
